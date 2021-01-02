@@ -1,1 +1,20 @@
 # Anime-Commands
+
+alprofile,
+anime,
+animeme,
+aniquote,
+anirandom,
+character,
+discover,
+hanime,
+malprofile,
+manga,
+mangarandom,
+nextairdate,
+sauce,
+schedule,
+seiyuu,
+top,
+upcoming,
+and waifu.
